@@ -54,7 +54,7 @@
   line-height: 72px;
 }
 
-.header__title__span-accent {
+.header__title_span-accent {
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
   font-size: 60px;
@@ -93,7 +93,7 @@
   color: #838383;
 }
 
-.header__footer__content_hours {
+.header__footer_hours {
   padding-left: 80px;
 }
 
@@ -134,8 +134,12 @@
   padding-bottom: 215px;
 }
 
-.recipes__video__content_aeropress,
-.recipes__video__content_french-press {
+.recipes__video {
+  border: none;
+}
+
+.recipes__video_aeropress,
+.recipes__video_french-press {
   display: flex;
   flex-direction: column;
 }
