@@ -10,7 +10,7 @@
 .header {
   background-color: #ffffff;
   background-image: url(../images/background_header.svg);
-  background-repeat: none;
+  background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   min-height: 720px;
@@ -104,7 +104,7 @@
 .recipes {
   background-color: #0a2750;
   background-image: url(../images/background_recipes.svg);
-  background-repeat: none;
+  background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   color: #ffffff;
