@@ -54,7 +54,7 @@
   line-height: 72px;
 }
 
-.header__title_span-accent {
+.header__span-accent {
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
   font-size: 60px;
@@ -93,11 +93,11 @@
   color: #838383;
 }
 
-.header__footer_hours {
+.header__hours {
   padding-left: 80px;
 }
 
-.header__footer__address {
+.header__address {
   padding-right: 80px;
 }
 
