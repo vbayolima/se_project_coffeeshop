@@ -134,17 +134,17 @@
   padding-bottom: 215px;
 }
 
-.recipes__video {
+.recipes__iframe {
   border: none;
 }
 
-.recipes__video_aeropress,
-.recipes__video_french-press {
+.recipes__aeropress,
+.recipes__french-press {
   display: flex;
   flex-direction: column;
 }
 
-.recipes__video-caption {
+.recipes__caption {
   display: flex;
   justify-content: space-between;
   font-weight: 500;
