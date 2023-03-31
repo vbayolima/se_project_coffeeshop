@@ -43,6 +43,7 @@
 }
 
 .recipes__caption {
+  margin-top: 24px;
   display: flex;
   justify-content: space-between;
   font-weight: 500;
