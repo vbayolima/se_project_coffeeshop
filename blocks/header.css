@@ -20,6 +20,7 @@
 }
 
 .header__span-accent {
+  display: block;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
   font-size: 60px;
@@ -45,6 +46,8 @@
 }
 
 .header__footer {
+  margin: 0;
+  padding: 0 80px 0 80px;
   position: absolute;
   bottom: 40px;
   width: 100%;
@@ -58,10 +61,6 @@
   color: #838383;
 }
 
-.header__hours {
-  padding-left: 80px;
-}
-
-.header__address {
-  padding-right: 80px;
+.header__paragraph {
+  margin: 0;
 }
